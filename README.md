@@ -1,5 +1,4 @@
 # Predictive-Maintenance-Remaining-Useful-Life-RUL-Forecasting-Platform
-# Predictive Maintenance & Remaining Useful Life (RUL) Forecasting Platform
 
 ## Project Overview
 This project uses machine learning to predict engine failures before they happen using the NASA CMAPSS dataset.
